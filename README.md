@@ -1,7 +1,7 @@
 # 💫 About Me:
 Gökhan Azizoğlu has completed undergraduate programs in Biomedical and Computer Engineering, as well as a graduate program in Computer Engineering at Erciyes University. He currently works as a research assistant in the Computer Engineering department at Erciyes University. During his graduate studies, he focused on Image Processing and Digital Image Watermarking. Additionally, he has developed solutions for classifying certain diseases using machine learning and deep learning methods.
 
-Later, he was accepted into the doctoral program at Erciyes University where he continue their research on artificial intelligence-supported solutions for urban intelligent transportation. With his studies, he aims to produce solutions for the effectiveness and efficiency of urban transportation.
+Later, he was accepted into the doctoral program at Erciyes University where he continue their research on artificial intelligence-based solutions for urban intelligent transportation. With his studies, he aims to produce solutions for the effectiveness and efficiency of urban transportation.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gokhanazizoglu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokhanazizoglu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gokhan_azizoglu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/@gokhanazizoglu) 
